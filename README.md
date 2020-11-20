@@ -15,7 +15,7 @@ El objetivo de este proyecto es rastrear las noticias asociadas con feminicidio 
 * Cada vez que el código se corre las noticias se actualizan.
 * Los resultados arrojados para cada caso se concentran en un DataFrame.
 * Para el análisis se desarrolló una función para identificar tendencias en la forma de exponer los encabezados de las noticias para cada fuente.
-* Se encontró que el feminicidio se asocia más con palabras clave como 'vandalismo', 'manifestaciones', 'protestas' y 'daños'.
+* Se encontró que el feminicidio se asocia más con palabras clave como 'vandalismo', 'manifestaciones', 'protestas' y 'daños'. Y poco con palabras como 'violencia', 'víctima' y 'justicia'.
 
 
 ## Resources
